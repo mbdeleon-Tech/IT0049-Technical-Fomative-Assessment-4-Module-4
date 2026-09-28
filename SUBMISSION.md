@@ -10,7 +10,7 @@ https://github.com/mbdeleon-Tech/IT0049-Technical-Fomative-Assessment-4-Module-4
 
 ## Hosted working website
 
-https://tfa4-deleon-tc33.infinityfree.me/
+http://tfa4-deleon-tc33.infinityfreeapp.com/
 
 ## Demo login
 
